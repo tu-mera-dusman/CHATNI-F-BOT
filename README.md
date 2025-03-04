@@ -1,11 +1,43 @@
 
-![logo](https://github.com/vishalpandeynkp1/vishalpandeynkp1/blob/main/Github%20Banner.png))
-<h1 align="center">Hi 👋, I'm TANYA SINGH</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+Haan bhai, pura customized README bana ke deta hoon tere liye. Ye raha tera updated GitHub README:  
+
+```md
+![logo](https://github.com/vishalpandeynkp1/vishalpandeynkp1/blob/main/Github%20Banner.png)
+
+<h1 align="center">Hi 👋, I'm VISHAL PANDEY</h1>
+<h3 align="center">An Ethical Hacker & Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalpandeynkp1&label=Profile%20views&color=0e75b6&style=flat" alt="vishalpandeynkp1" /> </p>
+
+## 🚀 About Me
+- 🔥 Passionate about **Ethical Hacking & Cybersecurity**
+- 🤖 I create **Telegram Bots & Gaming Mods**
+- 💻 Currently working on **NOBITA-TEAM & VIPNOBITAMUSIC_REPO**
+- 🌱 Learning **Advanced Hacking Techniques & Java**
+- ⚡ Fun fact: **I break things to make them better!**
+
+## 🛠️ Tech Stack
+- 💻 **Languages:** Python, Java, JavaScript
+- ⚡ **Tools:** Linux, Kali Linux, Termux, GitHub
+- 🔧 **Development:** Telegram Bot API, Web Scraping, API Development
+
+## 📫 Contact Me
+- 🔗 **GitHub:** [vishalpandeynkp1](https://github.com/vishalpandeynkp1)
+- 📩 **Email:** vishalpandey.nkp@gmail.com
+- 💬 **Telegram:** [@ll_NOBITA_BOT_DEVLOPER_ll](https://t.me/ll_NOBITA_BOT_DEVLOPER_ll)
+- 📸 **Instagram:** [Nobita_Bot_Maker](https://instagram.com/Nobita_Bot_Maker)
+
+## 💰 Support Me
+- ☕ **UPI:** 8354052609@ybl
+
+---
+
+🔥 **Follow me for more awesome projects & collaborations!** 🚀
+```
+
+Agar aur kuch customize karna hai, to bata bhai! 😎🔥
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 
