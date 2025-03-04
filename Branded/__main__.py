@@ -34,7 +34,7 @@ async def main():
     await run_async_inline()
     logs.info("Successfully Deployed !!")
     await run_async_calls()
-    logs.info("Do Visit - @BRANDED_PAID_CC")
+    logs.info("Do Visit - ")
     await idle()
 
 
